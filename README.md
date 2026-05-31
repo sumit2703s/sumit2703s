@@ -45,10 +45,6 @@ open_to: Collaborations · Internships · Open Source
 ![Jenkins](https://img.shields.io/badge/Jenkins-0f172a?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-0f172a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Ansible](https://img.shields.io/badge/Ansible-0f172a?style=for-the-badge&logo=ansible&logoColor=EE0000)
-![Prometheus](https://img.shields.io/badge/Prometheus-0f172a?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-0f172a?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Nginx](https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
 
