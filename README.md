@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header — capsule-render (very reliable) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sumit%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sumit%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Building%20Infrastructure%20that%20Scales&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG — demolab (very reliable) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+things+that+scale+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+Kubernetes;Full+Stack+%7C+Flask+%7C+Next.js;Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD;Linux+%7C+Jenkins+%7C+GitHub+Actions;Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;...+also+vibe+codes+full+stack+%F0%9F%98%84" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Badges — shields.io (most reliable) -->
 <img src="https://komarev.com/ghpvc/?username=sumit2703s&style=for-the-badge&color=0891b2&labelColor=0f172a" />
 &nbsp;
 <a href="https://github.com/sumit2703s?tab=followers">
@@ -25,57 +22,51 @@
 name: Sumit Srivastava
 username: sumit2703s
 location: India 🇮🇳
+role: DevOps Engineer
+superpower: Infrastructure that doesn't break at 3am
+also_does: Full Stack (vibe coding mode 😄)
 currently_working_on:
   - CircuitMaster AI (CMAI) — AI Hardware Engineering Platform
-  - Cloud-native DevOps pipelines
-  - Full Stack web applications
-interests:
-  - DevOps & Container Orchestration
-  - AI-powered SaaS products
-  - System Design & Architecture
-open_to: Collaborations, Freelance, Internships
+  - Kubernetes-based CI/CD pipelines
+  - Automating everything that can be automated
+philosophy: "If you do it twice, automate it."
+open_to: Collaborations · Internships · Open Source
 ```
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Core Stack — DevOps
 
 <div align="center">
-
-**🐳 DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0f172a?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-
-**💻 Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-**🔧 Backend**
-
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Terraform](https://img.shields.io/badge/Terraform-0f172a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Ansible](https://img.shields.io/badge/Ansible-0f172a?style=for-the-badge&logo=ansible&logoColor=EE0000)
+![Prometheus](https://img.shields.io/badge/Prometheus-0f172a?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0f172a?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Nginx](https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 😄 Also Vibe Codes — Full Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumit2703s&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=3b82f6&text_color=f8fafc&bg_color=0f172a" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit2703s&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=f8fafc&bg_color=0f172a" height="165" />
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </div>
 
@@ -85,24 +76,23 @@ open_to: Collaborations, Freelance, Internships
 
 <div align="center">
 
-<a href="https://github.com/sumit2703s/two-tier-flask-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit2703s&repo=two-tier-flask-app&theme=transparent&hide_border=true&title_color=22d3ee&text_color=f8fafc&bg_color=0f172a&icon_color=3b82f6" />
-</a>
+| 🗂️ Project | 📝 Description | 🛠️ Tech | 🔗 |
+|------------|---------------|---------|-----|
+| 🐳 **Two-Tier Flask App** | Dockerized Flask + MySQL with network bridge & persistent volumes | Docker · Flask · MySQL | [View →](https://github.com/sumit2703s/two-tier-flask-app) |
+| 🤖 **CircuitMaster AI** | AI-native hardware engineering platform | Next.js · TypeScript · AI | [View →](https://github.com/sumit2703s) |
+| ⚙️ **DevOps Pipelines** | End-to-end CI/CD with Docker, K8s & Jenkins | Docker · K8s · Jenkins | [View →](https://github.com/sumit2703s) |
 
 </div>
 
 ---
 
-## 🔨 Currently Building
+## 📈 Currently Building
 
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 **CircuitMaster AI** | AI-native hardware engineering platform | Next.js, TypeScript, AI |
-| ⚙️ **DevOps Pipelines** | Scalable CI/CD infrastructure | Docker, K8s, Jenkins |
-
-</div>
+```
+🐳 K8s CI/CD Pipeline    ████████████░░░░  75%
+🤖 CircuitMaster AI      ████████████████  80%
+📊 Monitoring Stack      ██████░░░░░░░░░░  40%
+```
 
 ---
 
@@ -122,9 +112,8 @@ open_to: Collaborations, Freelance, Internships
 
 <div align="center">
 
-<!-- Footer wave — capsule-render (reliable) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"Code is not just logic — it's craft."*
+*"If you do it twice — automate it."*
 
 </div>
