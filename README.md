@@ -1,26 +1,24 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Animated Header — capsule-render (very reliable) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sumit%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://github.com/sumit2703s">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+scale+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+Kubernetes;Full+Stack+%7C+Flask+%7C+Next.js;Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
+<!-- Typing SVG — demolab (very reliable) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+things+that+scale+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+Kubernetes;Full+Stack+%7C+Flask+%7C+Next.js;Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Followers -->
+<!-- Badges — shields.io (most reliable) -->
 <img src="https://komarev.com/ghpvc/?username=sumit2703s&style=for-the-badge&color=0891b2&labelColor=0f172a" />
+&nbsp;
 <a href="https://github.com/sumit2703s?tab=followers">
-  <img src="https://img.shields.io/github/followers/sumit2703s?style=for-the-badge&color=0891b2&labelColor=0f172a&logo=github" />
+  <img src="https://img.shields.io/github/followers/sumit2703s?style=for-the-badge&color=0891b2&labelColor=0f172a&logo=github&label=Followers" />
 </a>
 
 </div>
 
 ---
 
-<!-- About Me -->
 ## 🧠 About Me
 
 ```yaml
@@ -35,17 +33,11 @@ interests:
   - DevOps & Container Orchestration
   - AI-powered SaaS products
   - System Design & Architecture
-  - Open Source
-currently_learning:
-  - Kubernetes Advanced Patterns
-  - Next.js 15 + AI integrations
-  - GSAP & Framer Motion
 open_to: Collaborations, Freelance, Internships
 ```
 
 ---
 
-<!-- Tech Stack -->
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -77,32 +69,18 @@ open_to: Collaborations, Freelance, Internships
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumit2703s&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=3b82f6&text_color=f8fafc&bg_color=0f172a" height="165" />
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit2703s&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=f8fafc&bg_color=0f172a" height="165" />
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit2703s&theme=transparent&hide_border=true&ring=22d3ee&fire=3b82f6&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=475569&stroke=0f172a" />
-</div>
-
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit2703s&bg_color=0f172a&color=22d3ee&line=3b82f6&point=f8fafc&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -115,7 +93,6 @@ open_to: Collaborations, Freelance, Internships
 
 ---
 
-<!-- Currently Building -->
 ## 🔨 Currently Building
 
 <div align="center">
@@ -123,33 +100,31 @@ open_to: Collaborations, Freelance, Internships
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🤖 **CircuitMaster AI** | AI-native hardware engineering platform | Next.js, TypeScript, AI |
-| 🌐 **vercos.in** | IT Solutions Company Website | Next.js, Vercel |
 | ⚙️ **DevOps Pipelines** | Scalable CI/CD infrastructure | Docker, K8s, Jenkins |
 
 </div>
 
 ---
 
-<!-- Connect -->
 ## 🌐 Let's Connect
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/vercos.in-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://vercos.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sumit2703s)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sumit2703s)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sumit@vercos.in)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
+<!-- Footer wave — capsule-render (reliable) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20not%20just%20logic%2C%20it%27s%20craft.&author=Sumit%20Srivastava" />
+*"Code is not just logic — it's craft."*
 
 </div>
-# sumit2703s
