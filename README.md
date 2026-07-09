@@ -68,6 +68,19 @@ open_to: Collaborations · Internships · Open Source
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumit2703s&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=ffffff&icon_color=0891b2" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit2703s&layout=compact&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=ffffff" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=sumit2703s&hide_border=true&background=0f172a&stroke=22D3EE&ring=0891b2&fire=22D3EE&currStreakLabel=22D3EE" width="60%"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -75,20 +88,19 @@ open_to: Collaborations · Internships · Open Source
 | 🗂️ Project | 📝 Description | 🛠️ Tech | 🔗 |
 |------------|---------------|---------|-----|
 | 🐳 **Two-Tier Flask App** | Dockerized Flask + MySQL with network bridge & persistent volumes | Docker · Flask · MySQL | [View →](https://github.com/sumit2703s/two-tier-flask-app) |
-| 🤖 **CircuitMaster AI** | AI-native hardware engineering platform | Next.js · TypeScript · AI | [View →](https://github.com/sumit2703s) |
-| ⚙️ **DevOps Pipelines** | End-to-end CI/CD with Docker, K8s & Jenkins | Docker · K8s · Jenkins | [View →](https://github.com/sumit2703s) |
+| 🎵 **SyncMusic** | Listen together in real-time — create rooms, search YouTube songs, manage shared queues, stay in sync with friends | Python | [View →](https://github.com/sumit2703s/SyncMusic) |
+| 🛍️ **Online Shopping App** | Responsive e-commerce platform with a dark/light theme system & advanced product management | React · JavaScript | [View →](https://github.com/sumit2703s/online_shoping-app) |
+| 🛒 **EasyShop** 🍴 | Next.js 14 e-commerce platform — SSR, real-time updates, seamless shopping experience (forked & enhanced) | Next.js · TypeScript | [View →](https://github.com/sumit2703s/EasyShop) |
 
 </div>
 
 ---
 
-## 📈 Currently Building
+## 📈 Currently Exploring
 
-```
-🐳 K8s CI/CD Pipeline    ████████████░░░░  75%
-🤖 CircuitMaster AI      ████████████████  80%
-📊 Monitoring Stack      ██████░░░░░░░░░░  40%
-```
+- 🐳 Building out a full Kubernetes-based CI/CD pipeline
+- 🤖 Growing **CircuitMaster AI (CMAI)** — an AI hardware engineering platform
+- 📊 Setting up a monitoring stack
 
 ---
 
@@ -96,9 +108,11 @@ open_to: Collaborations · Internships · Open Source
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sumit2703s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sumit-srivastava-0863b2247/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sumit2703s)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://sumit2703s.github.io/portfolio/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sumit@vercos.in)
 
