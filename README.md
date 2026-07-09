@@ -52,30 +52,11 @@ open_to: Collaborations · Internships · Open Source
 
 ---
 
-## 😄 Also Vibe Codes — Full Stack
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sumit2703s&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=ffffff&icon_color=0891b2" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit2703s&layout=compact&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=ffffff" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=sumit2703s&hide_border=true&background=0f172a&stroke=22D3EE&ring=0891b2&fire=22D3EE&currStreakLabel=22D3EE" width="60%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sumit2703s&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
 
 </div>
 
@@ -88,9 +69,7 @@ open_to: Collaborations · Internships · Open Source
 | 🗂️ Project | 📝 Description | 🛠️ Tech | 🔗 |
 |------------|---------------|---------|-----|
 | 🐳 **Two-Tier Flask App** | Dockerized Flask + MySQL with network bridge & persistent volumes | Docker · Flask · MySQL | [View →](https://github.com/sumit2703s/two-tier-flask-app) |
-| 🎵 **SyncMusic** | Listen together in real-time — create rooms, search YouTube songs, manage shared queues, stay in sync with friends | Python | [View →](https://github.com/sumit2703s/SyncMusic) |
-| 🛍️ **Online Shopping App** | Responsive e-commerce platform with a dark/light theme system & advanced product management | React · JavaScript | [View →](https://github.com/sumit2703s/online_shoping-app) |
-| 🛒 **EasyShop** 🍴 | Next.js 14 e-commerce platform — SSR, real-time updates, seamless shopping experience (forked & enhanced) | Next.js · TypeScript | [View →](https://github.com/sumit2703s/EasyShop) |
+| 🐳 **Django Notes App** | Multi-container notes app — Django backend behind an Nginx reverse proxy with MySQL | Docker · Nginx · Django · MySQL | [View →](https://github.com/sumit2703s/django-notes-app) |
 
 </div>
 
