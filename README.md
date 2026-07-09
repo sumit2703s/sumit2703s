@@ -68,8 +68,12 @@ open_to: Collaborations · Internships · Open Source
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech | 🔗 |
 |------------|---------------|---------|-----|
+| 🛒 **EasyShop** | Modern e-commerce platform built with Next.js 14 featuring SSR & real-time updates | Next.js · TypeScript | [View →](https://github.com/sumit2703s/EasyShop) |
+| 🛍️ **Online Shopping App** | Responsive e-commerce platform with a sophisticated dark/light theme system | React · JavaScript | [View →](https://github.com/sumit2703s/online_shoping-app) |
 | 🐳 **Two-Tier Flask App** | Dockerized Flask + MySQL with network bridge & persistent volumes | Docker · Flask · MySQL | [View →](https://github.com/sumit2703s/two-tier-flask-app) |
 | 🐳 **Django Notes App** | Multi-container notes app — Django backend behind an Nginx reverse proxy with MySQL | Docker · Nginx · Django · MySQL | [View →](https://github.com/sumit2703s/django-notes-app) |
+| 💰 **Expenses Tracker** | Comprehensive financial management solution using Spring Boot, Spring MVC, and MySQL | Spring Boot · MySQL | [View →](https://github.com/sumit2703s/Expenses-Tracker-WebApp) |
+| ⚙️ **Jenkins Shared Library** | Reusable Jenkins shared library functions for CI/CD pipelines | Jenkins · Groovy | [View →](https://github.com/sumit2703s/jenkins_shared_library_functions) |
 
 </div>
 
